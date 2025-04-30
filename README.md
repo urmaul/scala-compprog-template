@@ -1,4 +1,4 @@
-# Rust Template for Competitive Programming
+# Scala Template for Competitive Programming
 
 Contains simple input/output code using buffered stdin reader. Uses Scala CLI to run.
 
