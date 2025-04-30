@@ -1,4 +1,4 @@
-@main def main() =
+@main def main(): Unit =
   val reader = scala.io.Source.stdin.bufferedReader()
 
   val n = reader.readLine().toInt
